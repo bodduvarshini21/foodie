@@ -1,1 +1,2 @@
-# foodie
+# Odin Recipes
+Odin Recipes project
